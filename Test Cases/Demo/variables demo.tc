@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>variables demo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d9987631-08f1-4356-a5d8-a686bb6f4b0f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6ee57884-ca1c-488e-831d-1105003bc10d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'verma'</defaultValue>
+      <description></description>
+      <id>6ee57884-ca1c-488e-831d-1105003bc10d</id>
+      <masked>false</masked>
+      <name>j</name>
+   </variable>
+</TestCaseEntity>
