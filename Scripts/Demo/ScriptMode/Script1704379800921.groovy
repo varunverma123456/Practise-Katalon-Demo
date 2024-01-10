@@ -28,7 +28,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/OrangeHRM_TestCase4/Pag
 
 WebUI.click(findTestObject('Object Repository/OrangeHRM_TestCase4/Page_OrangeHRM/button_Login'))
 
-WebUI.verifyTextPresent('a v', false)
+WebUI.verifyTextPresent('Test 90 Cooper', false)
 
 WebUI.closeBrowser()
 
