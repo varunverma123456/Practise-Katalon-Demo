@@ -49,3 +49,5 @@ WebUI.click(findTestObject('Object Repository/SECOND REPOSITORY/Page_CURA Health
 
 WebUI.click(findTestObject('Object Repository/SECOND REPOSITORY/Page_CURA Healthcare Service/a_Go to Homepage'))
 
+WebUI.closeBrowser()
+
